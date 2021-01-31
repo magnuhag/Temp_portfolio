@@ -5,7 +5,7 @@ As of now this repository contains only projects I worked on (by my self, any re
 
 The purpose of this directory is to give a small insight into some of the most basic (and not so basic) machine learning algorithms, as well as documenting my understanding of them. And also (perhaps) my own progression during the term i took this course.
 
-This repo contains (in it's main directory) three folders. Each folder includes (at least) a pdf and a Jupyter notebook. There might be some loading issues with the notebooks (in regards to equations in particular), depending on your browser.
+This repo contains (in it's main directory) three folders. Each folder includes (at least) a pdf and a Jupyter notebook. There might be some loading issues with the notebooks (in regards to equations in particular, but also figures and equation labels), depending on your browser.
 
 The folder project_1 details (an outline of) the derivation of the ordinary least squares method, and introduces (and motivates) regularization.
 In this project I also derive the "formula" for the bias variance trade-off. All of this is used to model a mathematical function - called The Franke function - using linear regression.
